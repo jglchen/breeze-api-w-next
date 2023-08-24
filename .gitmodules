@@ -1,0 +1,6 @@
+[submodule "breeze-api"]
+	path = breeze-api
+	url = https://github.com/jglchen/breeze-api
+[submodule "breeze-next"]
+	path = breeze-next
+	url = https://github.com/jglchen/breeze-next
